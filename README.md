@@ -13,3 +13,6 @@ no lo veo reflejado en la web
 ***
 
 # nuevo cambio
+
+git remote add https/......
+git push origin main
