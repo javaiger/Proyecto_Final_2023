@@ -1,2 +1,3 @@
 # Proyecto_Final_2023
-clase de git github
+Ejemplo de uso de Git
+** Objetivos **
