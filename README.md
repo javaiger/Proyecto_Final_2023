@@ -28,6 +28,6 @@ voy al cmd
 |tiulo|formato|
 
 subir foto
-![screen](/Proyecto_final_2023/logo.png)
+![screen](logo.png)
 
 
