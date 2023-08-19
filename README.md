@@ -21,3 +21,13 @@ tiene que salir
 
 voy al cmd
 
+<hola mundo>
+
+> fragmento que lleva algo **hola mundo**
+>
+|tiulo|formato|
+
+subir foto
+![screen](logo.png)
+
+
