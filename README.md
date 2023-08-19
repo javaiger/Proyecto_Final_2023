@@ -16,3 +16,5 @@ no lo veo reflejado en la web
 
 git remote add https/......
 git push origin main
+
+tiene que salir
