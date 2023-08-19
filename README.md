@@ -28,6 +28,6 @@ voy al cmd
 |tiulo|formato|
 
 subir foto
-![screen](/README.mdProyecto_final_2023/logo.png)
+![screen](/README.mdlogo.png)
 
 
